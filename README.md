@@ -16,6 +16,14 @@ The Problems and my Solutions are available below.
 | 7 | [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem?isFullScreen=true) | [Check Out](https://github.com/cemtelliagaoglu/HackerRank-30DaysOfCode/blob/main/HackerRank-30DaysOfCode.playground/Pages/Day6.xcplaygroundpage/Contents.swift) |
 | 8 | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem?isFullScreen=true) | [Check Out](https://github.com/cemtelliagaoglu/HackerRank-30DaysOfCode/blob/main/HackerRank-30DaysOfCode.playground/Pages/Day7.xcplaygroundpage/Contents.swift) |
 | 9 | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem?isFullScreen=true) | [Check Out](https://github.com/cemtelliagaoglu/HackerRank-30DaysOfCode/blob/main/HackerRank-30DaysOfCode.playground/Pages/Day8.xcplaygroundpage/Contents.swift) |
+| 10 | [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem?isFullScreen=true) | [Check Out](https://github.com/cemtelliagaoglu/HackerRank-30DaysOfCode/blob/main/HackerRank-30DaysOfCode.playground/Pages/Day9.xcplaygroundpage/Contents.swift) |
+| 11 | [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem?isFullScreen=true) | [Check Out](https://github.com/cemtelliagaoglu/HackerRank-30DaysOfCode/blob/main/HackerRank-30DaysOfCode.playground/Pages/Day10.xcplaygroundpage/Contents.swift) |
 
 
 
+
+
+<!--
+| 11 | [Day 10:]() | [Check Out]() |
+https://github.com/cemtelliagaoglu/HackerRank-30DaysOfCode/blob/main/HackerRank-30DaysOfCode.playground/Pages/Day8.xcplaygroundpage/Contents.swift
+-->
