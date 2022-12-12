@@ -18,8 +18,10 @@ The Problems and my Solutions are available below.
 | 9 | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem?isFullScreen=true) | [Check Out](https://github.com/cemtelliagaoglu/HackerRank-30DaysOfCode/blob/main/HackerRank-30DaysOfCode.playground/Pages/Day8.xcplaygroundpage/Contents.swift) |
 | 10 | [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem?isFullScreen=true) | [Check Out](https://github.com/cemtelliagaoglu/HackerRank-30DaysOfCode/blob/main/HackerRank-30DaysOfCode.playground/Pages/Day9.xcplaygroundpage/Contents.swift) |
 | 11 | [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem?isFullScreen=true) | [Check Out](https://github.com/cemtelliagaoglu/HackerRank-30DaysOfCode/blob/main/HackerRank-30DaysOfCode.playground/Pages/Day10.xcplaygroundpage/Contents.swift) |
-
-
+| 12 | [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays?isFullScreen=true) | [Check Out](https://github.com/cemtelliagaoglu/HackerRank-30DaysOfCode/blob/main/HackerRank-30DaysOfCode.playground/Pages/Day11.xcplaygroundpage/Contents.swift) |
+| 13 | [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance?isFullScreen=true) | [Check Out](https://github.com/cemtelliagaoglu/HackerRank-30DaysOfCode/blob/main/HackerRank-30DaysOfCode.playground/Pages/Day12.xcplaygroundpage/Contents.swift) |
+| 14 | [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes?isFullScreen=true) | [Check Out](https://github.com/cemtelliagaoglu/HackerRank-30DaysOfCode/blob/main/HackerRank-30DaysOfCode.playground/Pages/Day13.xcplaygroundpage/Contents.swift) |
+| 15 | [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope?isFullScreen=true) | [Check Out](https://github.com/cemtelliagaoglu/HackerRank-30DaysOfCode/blob/main/HackerRank-30DaysOfCode.playground/Pages/Day14.xcplaygroundpage/Contents.swift) |
 
 
 
